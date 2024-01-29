@@ -1,0 +1,6 @@
+package com.example.kondaas
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
